@@ -2,7 +2,7 @@ Welcome to my repository!
 
 This is my first work -- a random number game
 
-Download .zip and unzip it. Double-click .bat to play!
+Download .exe and double-click it to install, then you can statrt the game!
 
 Have fun!
 
@@ -10,6 +10,6 @@ Have fun!
 
 这是我的第一个作品——一个随机数游戏
 
-下载.zip后解压它，然后双击.bat进行游玩！
+下载.exe后双击它以安装游戏，然后你就可以启动游戏了！
 
 玩的开心！
