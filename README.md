@@ -2,7 +2,7 @@ Welcome to my repository!
 
 This is my first work -- a random number game
 
-Download .exe and double-click it to install, then you can statrt the game!
+Download .exe and double-click it to install, then you can start the game!
 
 Have fun!
 
